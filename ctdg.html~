@@ -1,0 +1,19 @@
+<html>
+  <head>
+    <title>The Critical Theory Drinking Game (a Harrison Chiu original)</title>
+  </head>
+  <body>
+    <h1>The Critical Theory Drinking Game (a Harrison Chiu original)</h1>
+
+    <h2>Write a thesis of:</h2>
+    <h3 id="theory">a theory</h3>
+    <h2>applied to:</h2>
+    <h3 id="work">a work</h3>
+    <h2>Good luck!</h2>
+
+    <button id="reroll">Reroll!</button>
+
+    <script src="js/bootstrap.min.js"></script>
+    <script src="ctdg.js"></script>
+  </body>
+</html>
